@@ -7,6 +7,6 @@ int		main(int ac, char **av)
 		write(1, USAGE, sizeof(USAGE) - 1);
 		return (1);
 	}
-	pyramid(ato_ui(av[ac - 1]), 0);
+	sastantua((int)ato_ui(av[ac - 1]));
 	return (0);
 }
