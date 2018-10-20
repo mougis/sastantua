@@ -2,7 +2,8 @@
 A program that prints a special pyramid.  
   
 In the repo do `make all`  
-Then for example:
+Then for example: `./sastantua 5`  
+
 ```
 ./sastantua 5
                                   /*\
